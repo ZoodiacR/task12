@@ -22,7 +22,7 @@
     {
       "src": "/(.*)",
       "dest": "task/wsgi.py"
-    }
+    },
     {
   "scripts": {
     "build": "[Task] build --output public"
